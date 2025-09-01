@@ -14,9 +14,9 @@ This repo contains step-by-step lessons covering the **machine learning workflow
 ---
 
 ## Structure
-├── data/ # Sample datasets
+├── datasets
 
-├── notebooks/ # Lesson notebooks
+├── notebooks
 
 │ ├── 01_data_prep.ipynb
 
