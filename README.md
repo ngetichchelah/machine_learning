@@ -1,4 +1,4 @@
-### Machine Learning Introductory Lessons
+## Machine Learning Introductory Lessons
 
 This repo contains step-by-step lessons covering the machine learning workflow: from data preparation to preprocessing, feature engineering, model training, and validation.
 
